@@ -26,8 +26,6 @@ En lugar de utilizar listas de palabras estáticas, generamos un diccionario din
 crunch 8 8 0123456789 -o diccionario.txt
 ```
 
-Esto asegura que la contraseña objetivo (`12345678`) esté incluida en el ataque.
-
 ---
 
 ## 🔓 Fase 2: Procesamiento y Cracking
